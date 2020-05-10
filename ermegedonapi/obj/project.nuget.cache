@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQ1rvfBDKUlZ62Tj9kLDg7GyKllUHumdx9jNjbcmbSSIit1Bxr8YD4Wp6RRB1Hc+BVlIE4+vTA3nGXQGIgROEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uroboros\\source\\repos\\ermegedonapi\\ermegedonapi\\ermegedonapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uroboros\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Uroboros\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\Uroboros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\Uroboros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
